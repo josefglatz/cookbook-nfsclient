@@ -2,7 +2,7 @@
 
 This file is used to list changes made in each version of nfsclient.
 
-## 0.1.0:
+## 1.0.0:
 
 * Initial release of nfsclient
 * currently only debian/ubuntu is supported
